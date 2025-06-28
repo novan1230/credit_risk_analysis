@@ -54,4 +54,4 @@ This model supports the data-driven credit scoring process by identifying high-r
 2. Open the `.ipynb` file using [Google Colab](https://colab.research.google.com/) or Visual Studio Code (`.py` file)
    
 ```bash
-git clone https://github.com/
+git clone https://github.com/novanrw1611
